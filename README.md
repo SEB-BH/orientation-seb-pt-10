@@ -98,7 +98,7 @@ Using AI honestly is not automatically a problem. The problem is using AI to rep
 The goal is not to avoid AI forever. The goal is to become a developer who can use AI responsibly.
 
 ### Attendance 
-* Khalil or Noor will take attendance each day at 6:00 pm.  If you arrive after 6:00 pm you will be considered tardy - please let either Khalil or Noor know so that you are counted as tardy rather than absent.
+* Khalil or Noor will take attendance each day at 6:00 pm.  If you arrive after 6:00 pm you will be considered tardy - please let either Khalil or Noor know that you have arrived so that you are counted as tardy rather than absent.
 * If you know you will be late or absent ahead of time, please reach out to the IA on duty and let them know. 
 
 ## How to Succeed
