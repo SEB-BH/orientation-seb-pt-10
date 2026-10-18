@@ -5,7 +5,6 @@
 * Get to know each other
 * Map out the topics
 * List the core expectations of instructors and students
-* Determine guiding principles for our class culture through our Class Constitution
 
 ### Class Structure
 
