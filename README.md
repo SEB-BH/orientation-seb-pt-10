@@ -24,7 +24,7 @@
 * PostgreSQL (Relational Database)
 * Python/Django
 
-We cover these technologies / topics because they are foundational to development.  The course will culminate in a final Capstone Project.  This project is exciting because not only will it show off your new dev skills, but it will also be an opportunity to do work with a real client.  We'll talk more about the details as the Capstone project time approaches.
+We cover these technologies / topics because they are foundational to development.  The course will culminate in a final Capstone Project.
 
 #### Normal Daily schedule
 
