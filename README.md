@@ -10,7 +10,7 @@
 ### Class Structure
 
 #### Course Dates
-- 18 October to 12 May with 3 holidays + Ramadan break
+- 18 October 2026 to 12 May 2027 with 3 holidays + Ramadan break
 - Sunday - Wednesday, 6 pm to 9 pm
 - Course will be divided into 4 units, with a project at the end of each unit
 
