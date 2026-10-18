@@ -93,31 +93,12 @@ For every deliverable, you may be asked to explain your code. If you cannot expl
 
 For labs, homework, and projects, you may be asked to include an AI Use Disclosure.
 
-Example:
-
-```md
-## AI Use Disclosure
-
-Did you use AI on this assignment?
-
-- [ ] No
-- [ ] Yes
-
-If yes, explain how you used it:
-
-Example:
-I used AI to explain an error message.
-I used AI to help me understand `addEventListener`.
-I did not copy and paste a full solution.
-```
-
 Using AI honestly is not automatically a problem. The problem is using AI to replace your own learning.
 
 The goal is not to avoid AI forever. The goal is to become a developer who can use AI responsibly.
 
 ### Attendance 
-* Zainab or Bidoor will take attendance each morning at 9:00 am and once again when class resumes after lunch.  If you arrive after 9:15 am you will be considered tardy - please let either Zainab or Bidoor know so that you are counted as tardy rather than absent.
-* 3 tardies add up to 1 absence. Only 3 absences total are permitted. If you are absent, please notify the instructors and watch the class recording.
+* Khalil or Noor will take attendance each day at 6:00 pm.  If you arrive after 6:00 pm you will be considered tardy - please let either Khalil or Noor know so that you are counted as tardy rather than absent.
 * If you know you will be late or absent ahead of time, please reach out to the IA on duty and let them know. 
 
 ## How to Succeed
@@ -126,7 +107,7 @@ The goal is not to avoid AI forever. The goal is to become a developer who can u
 - Ask questions.  Those two things are like 90% of your success right there.
 - Trust the the process.   It may feel as though you're not "learning" enough during the lectures.  This is not where you should expect to grasp the concepts in this program, in fact the lectures will make up a relatively small part of your learning.  Taking time to practice with labs will reinforce what you heard in the lectures, but project weeks are where the deep learning really happen.
 - Be prepared to work very hard.  The instructors are your biggest cheerleaders and will provide support but we cannot do the work for you.
-- You'll be learning, growing, failing, and succeeding **together** for the next 12 weeks.  Teamwork will be paramount to your success as a student and beyond. Programming is a teamwork-driven profession. You will learn more from each other than from the instructors!
+- You'll be learning, growing, failing, and succeeding **together** for the next 29 weeks.  Teamwork will be paramount to your success as a student and beyond. Programming is a teamwork-driven profession. You will learn more from each other than from the instructors!
 - You will be uncomfortable. Regularly.
   * Don't be too hard on yourself.
   * You will probably feel somewhat lost on this week's topic, feel more comfortable with last week lessons, and notice that a few weeks ago looks easy.
@@ -147,7 +128,6 @@ This may be the most mentally challenging thing you've ever done - the first tim
 
 * Unfortunately, this can hurt. Just like exercise can make you sore and tired, so should learning. Try to enjoy the burn knowing it is making you better.
 * We anticipate that you will run into hardships. When you do, that's when it is time to really challenge yourself and buckle down. Don't quit! Embrace the fact that the challenge will make you a better coder. Endure the struggle to grow and develop your mind.
-
 
 Programming is a mindset. It's about confidence and being open to failure. It's about knowing when to climb from the bottom of the cycle and being able to say, "Eh, I'm going to try this thing, even though I don't really understand it. AND I'm not going to get attached to it in case it doesn't work and I have to erase all my code and try something completely different."
 
