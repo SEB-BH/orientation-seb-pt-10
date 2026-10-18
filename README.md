@@ -10,8 +10,8 @@
 ### Class Structure
 
 #### Course Dates
-- 14 June to 03 September with 2 holidays
-- Sunday - Thursday, 9 am to 5 pm
+- 18 October to 12 May with 3 holidays + Ramadan break
+- Sunday - Wednesday, 6 pm to 9 pm
 - Course will be divided into 4 units, with a project at the end of each unit
 
 #### Content covered:
@@ -30,16 +30,16 @@ We cover these technologies / topics because they are foundational to developmen
 
 Most days will be a combination of lectures and lab time (where you can work with your peers and get hands on practice).  There are a few days each unit where most or all of the day is devoted a codealong - We'll build a project together as a class.  
 
-Every day we will always take a lunch break at 11:30 am until 1:00pm and a short afternoon break from 3:00pm to 3:30pm.  I will also try to give small 5 minute breaks throughout the day as time permits.
+Every day we will always take a break at 7:00 pm until 7:30 pm.  I will also try to give small 5 minute breaks throughout the day as time permits.
 
 #### Project Weeks Scheulde
 
-Project weeks will be time for you to work on your projects.  There will be no lectures.  We will come to class as usual and get hands on work building projects from 9 to 5.  The goal of this program is to turn you in to a self-sufficient software engineer, so our expectation is that you try to resolve issues on your own as much as possible.  However, the instructional team will be available to help as you code.  We will have our same normal lunch and afternoon breaks.  On the final day of project week, everyone will present their project to the class.
+Project weeks will be time for you to work on your projects.  There will be no lectures.  We will come to class as usual and get hands on work building projects from 6 to 9.  The goal of this program is to turn you in to a self-sufficient software engineer, so our expectation is that you try to resolve issues on your own as much as possible.  However, the instructional team will be available to help as you code.  We will have our same normal lunch and afternoon breaks.  On the final day of project week, everyone will present their project to the class.
 
 ### Course Policies
 
 #### Homework 
-* Each day you will be given a homework assignment that is due the next morning at 9 AM. 
+* Several days a week you will be given a homework assignment that is due the next day at 6 PM (unless it was assigned on a Wednesday, then it is due Sunday at 6 PM). 
 * You must complete 80% of these homeworks to graduate the class.
 * They are graded on a 👍 or 👎 basis -- either they are complete or not. Whether they are complete or not depends on the effort you put in. They don't have to be 100% correct, but you do need to show that you put time into getting the correct answer.
 
@@ -64,7 +64,7 @@ Plagiarized submissions will not be graded and may lead to further action, inclu
 
 **Responsible AI Use**
 
-AI tools are common in modern software development. In this course, you may use AI as a **learning assistant**, but not as a replacement for your own work.
+AI tools are common in modern software development. In this course, you may not use AI as a replacement for your own work.
 
 A simple rule:
 
@@ -74,10 +74,7 @@ You may use AI to:
 
 * Explain a concept in simpler language
 * Explain an error message
-* Help you write pseudocode
 * Suggest debugging steps
-* Review code you already wrote
-* Improve comments or README wording
 * Ask for clarification in your native language
 
 You may not use AI to:
