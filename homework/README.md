@@ -12,4 +12,4 @@ Please fill out the form below to submit your homework:
 
 | Unit 1 Homework  | Due Date: | 
 | ------------------------------------------------------------| :-------------------:| 
-| [Git and GitHub Lab](https://seb-bh.github.io/intro-to-git-and-github-lab/)    | Tue 20-Oct | 
+| [Git and GitHub Lab](https://seb-bh.github.io/intro-to-git-and-github-lab/)    | Wed 21-Oct | 
