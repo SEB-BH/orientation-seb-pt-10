@@ -1,4 +1,8 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Welcome to SEB!!! 🎉
+<h1>
+  <span class="prefix">SEB PT 10</span>
+  <span class="headline">Welcome to SEB!!! 🎉</span>
+</h1>
+
 
 ## Learning Objectives
 
