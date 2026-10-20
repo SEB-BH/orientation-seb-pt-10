@@ -7,5 +7,6 @@
 | ------ | ------ |
 | [Class Policies](./class-policies/README.md) | The core expectations of instructors and students |
 | [Homework](./homework/README.md) | Homework Schedule |
+| [Lessons](./lessons/README.md) | Links to previous lessons |
 
 
