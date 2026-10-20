@@ -14,44 +14,20 @@
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "Setup",
-          "dirName": "setup",
+          "friendlyName": "Class Policies",
+          "dirName": "class-policies",
           "type": "Content",
           "videoUrl": ""
         },
         {
-          "friendlyName": "Concepts",
-          "dirName": "concepts",
+          "friendlyName": "Homework",
+          "dirName": "homework",
           "type": "Content",
           "videoUrl": ""
         },
         {
-          "friendlyName": "Headings and Emphasis",
-          "dirName": "headings-and-emphasis",
-          "type": "Content",
-          "videoUrl": ""
-        },
-        {
-          "friendlyName": "Lists and Code",
-          "dirName": "lists-and-code",
-          "type": "Content",
-          "videoUrl": ""
-        },
-        {
-          "friendlyName": "Links and Blockquotes",
-          "dirName": "links-and-blockquotes",
-          "type": "Content",
-          "videoUrl": ""
-        },
-        {
-          "friendlyName": "Images and Extended Syntax",
-          "dirName": "images-and-extended-syntax",
-          "type": "Content",
-          "videoUrl": ""
-        },
-        {
-          "friendlyName": "Practice",
-          "dirName": "practice",
+          "friendlyName": "Lessons",
+          "dirName": "lessons",
           "type": "Content",
           "videoUrl": ""
         }
@@ -83,44 +59,20 @@
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "Setup",
-          "dirName": "setup",
+          "friendlyName": "Class Policies",
+          "dirName": "class-policies",
           "type": "Content",
           "videoUrl": ""
         },
         {
-          "friendlyName": "Concepts",
-          "dirName": "concepts",
+          "friendlyName": "Homework",
+          "dirName": "homework",
           "type": "Content",
           "videoUrl": ""
         },
         {
-          "friendlyName": "Headings and Emphasis",
-          "dirName": "headings-and-emphasis",
-          "type": "Content",
-          "videoUrl": ""
-        },
-        {
-          "friendlyName": "Lists and Code",
-          "dirName": "lists-and-code",
-          "type": "Content",
-          "videoUrl": ""
-        },
-        {
-          "friendlyName": "Links and Blockquotes",
-          "dirName": "links-and-blockquotes",
-          "type": "Content",
-          "videoUrl": ""
-        },
-        {
-          "friendlyName": "Images and Extended Syntax",
-          "dirName": "images-and-extended-syntax",
-          "type": "Content",
-          "videoUrl": ""
-        },
-        {
-          "friendlyName": "Practice",
-          "dirName": "practice",
+          "friendlyName": "Lessons",
+          "dirName": "lessons",
           "type": "Content",
           "videoUrl": ""
         }
