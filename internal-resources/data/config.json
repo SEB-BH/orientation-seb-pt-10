@@ -1,11 +1,11 @@
 {
   "org": {
     "friendlyName": "Modular Curriculum All Courses",
-    "name": "modular-curriculum-all-courses"
+    "name": "SEB-BH"
   },
   "repo": {
-    "friendlyName": "Intro to Markdown",
-    "name": "intro-to-markdown",
+    "friendlyName": "SEB PT 10",
+    "name": "orientation-seb-pt-10",
     "type": "Lesson"
   },
   "courses": [
