@@ -13,3 +13,4 @@ Please fill out the form below to submit your homework:
 | Unit 1 Homework  | Due Date: | 
 | ------------------------------------------------------------| :-------------------:| 
 | [Git and GitHub Lab](https://seb-bh.github.io/intro-to-git-and-github-lab/)    | Wed 21-Oct | 
+| [HTML and CSS Lab](https://seb-bh.github.io/portfolio-lab-challenge/)    | Sun 25-Oct | 
