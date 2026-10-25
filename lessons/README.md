@@ -5,8 +5,8 @@
 
 ## Unit 1 Lessons
 
-| Unit 1 Lesson  | Date Delivered: | Lecture Code |
-| ------------------------------------------------------------| :-------------------:| :--------: |
+| Unit 1 Lesson  | Date Delivered | Lecture Code |
+| ------------------------------------------------------------| -------------------| :--------: |
 | **Week 1**    |  |   |
 | [Installfest](https://seb-bh.github.io/installfest/)    | Sun 18-Oct |  -------- |
 | [Intro to the CLI](https://seb-bh.github.io/intro-to-the-cli/)    | Mon 19-Oct | -------- |
