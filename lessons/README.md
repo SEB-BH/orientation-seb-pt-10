@@ -14,5 +14,5 @@
 | [Intro to HTML](https://seb-bh.github.io/intro-to-html/)    | Tue 20-Oct | [Lecture Code](https://github.com/SEB-PT-10/intro-to-html) |
 | [Intro to CSS](https://seb-bh.github.io/intro-to-css/)    | Wed 21-Oct | [Lecture Code](https://github.com/SEB-PT-10/intro-to-css) |
 | **Week 2**    |  |   |
-| [Intro to JavaScript](https://seb-bh.github.io/intro-to-css/)    | Sun 25-Oct | [Lecture Code](https://github.com/SEB-PT-10/intro-to-javascript) |
+| [Intro to JavaScript](https://seb-bh.github.io/intro-to-css/)    | Sun 25-Oct | [Lecture Code](https://github.com/SEB-PT-10/intro-to-javascript/blob/main/app.js) |
 | [JavaScript Control Flow](https://seb-bh.github.io/javascript-control-flow/)    | Sun 25-Oct | [Lecture Code](https://github.com/SEB-PT-10/javascript-control-flow/blob/main/app.js) |
