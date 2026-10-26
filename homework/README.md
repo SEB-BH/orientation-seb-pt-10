@@ -14,3 +14,4 @@ Please fill out the form below to submit your homework:
 | ------------------------------------------------------------| :-------------------:| 
 | [Git and GitHub Lab](https://seb-bh.github.io/intro-to-git-and-github-lab/)    | Wed 21-Oct | 
 | [HTML and CSS Lab](https://seb-bh.github.io/portfolio-lab-challenge/)    | Sun 25-Oct | 
+| [Intro to Functions Lab](https://seb-bh.github.io/intro-to-javascript-functions-lab/)    | Tue 27-Oct | 
