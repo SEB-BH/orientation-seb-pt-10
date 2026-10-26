@@ -16,4 +16,4 @@
 | **Week 2**    |  |   |
 | [Intro to JavaScript](https://seb-bh.github.io/intro-to-css/)    | Sun 25-Oct | [Lecture Code](https://github.com/SEB-PT-10/intro-to-javascript/blob/main/app.js) |
 | [JavaScript Control Flow](https://seb-bh.github.io/javascript-control-flow/)    | Sun 25-Oct | [Lecture Code](https://github.com/SEB-PT-10/javascript-control-flow/blob/main/app.js) |
-| [Intro to JavaScript Functions](https://seb-bh.github.io/intro-to-javascript-functions/)    | Sun 25-Oct | [Lecture Code](https://github.com/SEB-PT-10/intro-to-javascript-functions/blob/main/app.js) |
+| [Intro to JavaScript Functions](https://seb-bh.github.io/intro-to-javascript-functions/)    | Mon 26-Oct | [Lecture Code](https://github.com/SEB-PT-10/intro-to-javascript-functions/blob/main/app.js) |
