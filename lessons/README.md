@@ -18,3 +18,5 @@
 | [JavaScript Control Flow](https://seb-bh.github.io/javascript-control-flow/)    | Sun 25-Oct | [Lecture Code](https://github.com/SEB-PT-10/javascript-control-flow/blob/main/app.js) |
 | [Intro to JavaScript Functions](https://seb-bh.github.io/intro-to-javascript-functions/)    | Mon 26-Oct | [Lecture Code](https://github.com/SEB-PT-10/intro-to-javascript-functions/blob/main/app.js) |
 | [Intro to JavaScript Arrays](https://seb-bh.github.io/intro-to-javascript-functions/)    | Tue 27-Oct | [Lecture Code](https://github.com/SEB-PT-10/intro-to-javascript-arrays/blob/main/app.js) |
+| [Intro to JavaScript Objects](https://seb-bh.github.io/intro-to-javascript-objects/)    | Wed 28-Oct | [Lecture Code](https://github.com/SEB-PT-10/intro-to-javascript-objects/blob/main/app.js) |
+| **Week 3**    |  |   |
