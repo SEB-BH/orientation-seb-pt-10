@@ -20,3 +20,5 @@
 | [Intro to JavaScript Arrays](https://seb-bh.github.io/intro-to-javascript-functions/)    | Tue 27-Oct | [Lecture Code](https://github.com/SEB-PT-10/intro-to-javascript-arrays/blob/main/app.js) |
 | [Intro to JavaScript Objects](https://seb-bh.github.io/intro-to-javascript-objects/)    | Wed 28-Oct | [Lecture Code](https://github.com/SEB-PT-10/intro-to-javascript-objects/blob/main/app.js) |
 | **Week 3**    |  |   |
+| [Intro to the DOM](https://ga-curriculum.github.io/intro-to-the-dom/canvas-landing-pages/seb)    | Sun 1-Nov | [Lecture Code](https://github.com/SEB-PT-10/intro-to-the-dom-demo) |
+| [DOM Events](https://seb-bh.github.io/dom-events/)    | Tue 3-Nov | [Lecture Code](https://github.com/SEB-PT-10/dom-events) |
