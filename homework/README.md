@@ -16,3 +16,4 @@ Please fill out the form below to submit your homework:
 | [HTML and CSS Lab](https://seb-bh.github.io/portfolio-lab-challenge/)    | Sun 25-Oct | 
 | [Intro to Functions Lab](https://seb-bh.github.io/intro-to-javascript-functions-lab/)    | Tue 27-Oct | 
 | [Intro to JS Objects and Arrays Lab](https://seb-bh.github.io/intro-to-javascript-objects-and-arrays-lab/)    | Sun 1-Nov | 
+| [DOM - Cozy Cafe Lab](https://seb-bh.github.io/cozy-cafe-lab/)    | Wed 4-Nov | 
