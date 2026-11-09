@@ -22,3 +22,5 @@
 | **Week 3**    |  |   |
 | [Intro to the DOM](https://ga-curriculum.github.io/intro-to-the-dom/canvas-landing-pages/seb)    | Sun 1-Nov | [Lecture Code](https://github.com/SEB-PT-10/intro-to-the-dom-demo) |
 | [DOM Events](https://seb-bh.github.io/dom-events/)    | Tue 3-Nov | [Lecture Code](https://github.com/SEB-PT-10/dom-events) |
+| **Week 4**    |  |   |
+| [Tic-Tac-Toe Lab Review](https://seb-bh.github.io/javascript-browser-game-tic-tac-toe-lab/)    | 8-9 Nov | [Lecture Code](https://github.com/SEB-PT-10/tic-tac-toe/blob/training/app.js) |
