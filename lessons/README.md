@@ -24,3 +24,4 @@
 | [DOM Events](https://seb-bh.github.io/dom-events/)    | Tue 3-Nov | [Lecture Code](https://github.com/SEB-PT-10/dom-events) |
 | **Week 4**    |  |   |
 | [Tic-Tac-Toe Lab Review](https://seb-bh.github.io/javascript-browser-game-tic-tac-toe-lab/)    | 8-9 Nov | [Lecture Code](https://github.com/SEB-PT-10/tic-tac-toe/blob/training/app.js) |
+| [JS Array Iterator Methods](https://ga-curriculum.github.io/javascript-array-iterator-methods/canvas-landing-pages/seb.html)    | Tue 10 Nov | [Lecture Code](https://github.com/SEB-PT-10/javascript-array-iterator-methods/blob/main/app.js) |
