@@ -19,3 +19,6 @@ Please fill out the form below to submit your homework:
 | [DOM - Cozy Cafe Lab](https://seb-bh.github.io/cozy-cafe-lab/)    | Wed 4-Nov | 
 | [Tic Tac Toe Lab](https://seb-bh.github.io/javascript-browser-game-tic-tac-toe-lab/)    | Sun 8-Nov | 
 | [JavaScript Array Iterator Methods Lab](https://seb-bh.github.io/javascript-array-iterator-methods/)    | Sun 15-Nov | 
+| [Flexbox Lab](https://ga-curriculum.github.io/flexbox-lab/canvas-landing-pages/seb.html)    | Sun 15-Nov | 
+
+
