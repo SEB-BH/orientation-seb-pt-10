@@ -26,5 +26,6 @@
 | [Tic-Tac-Toe Lab Review](https://seb-bh.github.io/javascript-browser-game-tic-tac-toe-lab/)    | 8-9 Nov | [Lecture Code](https://github.com/SEB-PT-10/tic-tac-toe/blob/training/app.js) |
 | [JS Array Iterator Methods](https://ga-curriculum.github.io/javascript-array-iterator-methods/canvas-landing-pages/seb.html)    | Tue 10 Nov | [Lecture Code](https://github.com/SEB-PT-10/javascript-array-iterator-methods/blob/main/app.js) |
 | [Flexbox](https://ga-curriculum.github.io/flexbox/canvas-landing-pages/seb)    | Wed 11 Nov | [Lecture Code](https://github.com/SEB-PT-10/flexbox) |
-| **Week 5**    |  |   |
+| **Week 5 - PROJECT WEEK**    |  |   |
 | [Project Toolkit](https://seb-bh.github.io/project-1-toolkit/)    | Sun 15 Nov | [Lecture Code](https://github.com/SEB-PT-10/project-toolkit) |
+| [Planning Your First Project](https://seb-bh.github.io/planning-a-browser-game/)    | Mon 16 Nov | [Lecture Code](https://github.com/SEB-PT-10/project-1) |
